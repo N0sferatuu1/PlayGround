@@ -16,3 +16,13 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/N0sferatuu1).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## NEON RIFT — Arena Champions
+
+A mobile-friendly 3D arena fighting game. Open `index.html` from a local web server (Three.js is loaded from jsDelivr).
+
+- Pick from 8 champions, then fight an AI-controlled rival.
+- Desktop: **A/D** or **←/→** to move, **J** punch, **K** kick, **L** special, **Space** guard.
+- Mobile: use the on-screen movement and attack buttons.
+- Win by depleting the opponent's health before the 60-second round ends. Sound can be toggled in the arena.
+
